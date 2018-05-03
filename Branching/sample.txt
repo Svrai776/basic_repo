@@ -1,3 +1,0 @@
-<p>
-This paragraph is in th update_our_branch...
-</p>
