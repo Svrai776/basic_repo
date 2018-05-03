@@ -7,3 +7,8 @@ body{
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+style{
+    font: black;
+    font-size: 50px;
+}
